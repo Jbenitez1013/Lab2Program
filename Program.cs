@@ -5,9 +5,9 @@ using Lab2Class;
 // Juan Benitez | Tech4982-01 | Lab#2
 
 
-
 {
 
+    //Integers
     Console.Write("How many integers are you providing?: ");
     double num = double.Parse(Console.ReadLine());
 
