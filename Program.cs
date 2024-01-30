@@ -19,6 +19,7 @@ using Lab2Class;
     double number2 = double.Parse(Console.ReadLine());
 
     if (num==3)
+    
     {
         Console.Write("Enter the third number: ");
         double number3 = double.Parse(Console.ReadLine());
